@@ -1,0 +1,3 @@
+Nombre: Pepe
+Teléfono: 123456
+Categoría: Vendedor

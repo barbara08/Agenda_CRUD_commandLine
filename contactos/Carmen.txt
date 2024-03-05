@@ -1,0 +1,3 @@
+Nombre: Carmen
+Teléfono: 444444
+Categoría: Distribuidora
